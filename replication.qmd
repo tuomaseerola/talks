@@ -1,0 +1,103 @@
+---
+title: "Replication"
+subtitle: "Where are we?"
+author: "Tuomas Eerola"
+date: "7/2/2023"
+format: 
+  revealjs:
+    theme: default
+    toc: false
+#    toc-depth: 1 # default is 3
+#    toc-title: Contents
+    smaller: false
+    slide-number: true
+    show-slide-number: all
+    logo: figures/DurhamUniversityMasterLogo_RGB.png
+    footer: "Workshop"
+    embed-resources: true
+    self-contained: false
+    bibliography: references.bib
+    csl: apa6.cls
+    anchor-sections: true
+    smooth-scroll: true
+---
+<!-- renderthis::to_pdf("session1.html") -->
+
+
+## 1 -- Credibility Crisis
+
+- "Why most published research findings are false" [@ioannidis2005most]
+- Psychology has lion share of bias/misleading results [@simmons2011] 
+- Science: Serious concern about robustness of results
+  - 100 studies replicated, about 36% produced statistically significant results [@open2015estimating]
+
+## 1 -- Solutions -- Currently
+
+- Proposed solutions: 
+  - Go beyond null hypothesis testing, switch to CIs <span style="color:green"> ✔︎ </span>
+  - Open Data <span style="color:green">✔︎</span>, Shared code<span style="color:red"> ✗</span> 
+  - Open Access publishing <span style="color:green"> ✔︎ </span> 
+  - Engage in study **replication**
+
+- Meta-research [@hardwicke2019a] concludes
+  - Journal data sharing policies have improved the situation
+  - We neglect these principles in practice [@hardwicke2019]
+
+## Current State in Psychology (1)
+
+![](figures/hardwicke2022_results_part1.png)
+@hardwicke2022 sampled 250 psychology articles
+
+## Current State in Psychology (2)
+
+![](figures/hardwicke2022_results_part2.png)
+
+
+## 2 -- Current State in our Field
+
+Keyword search of of _titles_ and _abstracts_ + manual verification
+
+|JOURNAL                       |  N | Replication|
+|:-----------------------------|---:|----------:|
+|Journal of New Music Research | 570|          1|
+|Music and Science             | 150|          0|
+|Music Perception              | 957|          5|
+|Musicae Scientiae             | 617|          8|
+|Psychology of Music           |1380|          2|
+|Total                         |3674|         16|
+
+## 2 --Closer look at the Specialist Journals
+
+Sample (15%) of articles between 2017-2020 (100 articles)
+
+|Availability of               |  N | %         |
+|:-----------------------------|---:|----------:|
+| Materials                    |   5|          5|
+| Protocol                     |   3|          3|
+| Data                         |  7 |           7|
+| Analysis script              |   0|          0|
+| Preregistration              |   0|          0|
+
+
+::: aside
+If you want to see a larger sample, join as a co-author and encode papers!
+:::
+
+
+## 3 -- Solutions?
+
+- Increasingly engage in replication
+
+  - Part of training of MA, PhDs, and postdocs
+  - Integrate to teaching: Year 2 replication projects (5th year now) [https://musicscience.net/durms/](https://musicscience.net/durms/)
+
+- Replication Networks in psychology
+  - [https://www.ukrn.org](https://www.ukrn.org), [Many Labs](https://osf.io/wx7ck/), [Psychological Science Accelerator (PSA)](https://psysciacc.org)
+
+- Our own **Music Research Replication Network**? (better name, principles, commitment)
+
+
+## References
+
+::: {#refs}
+:::

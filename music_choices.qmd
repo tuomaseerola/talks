@@ -1,0 +1,54 @@
+---
+title: "Studying music that people engage with vs music that brings out interesting musical processes"
+author: "Tuomas Eerola"
+date: "7/2/2023"
+format: 
+  revealjs:
+    theme: default
+    toc: false
+    smaller: false
+    slide-number: true
+    show-slide-number: all
+    logo: figures/DurhamUniversityMasterLogo_RGB.png
+    footer: "Workshop"
+    embed-resources: true
+    self-contained: false
+    bibliography: references.bib
+    csl: apa6.cls
+    anchor-sections: true
+    smooth-scroll: true
+---
+<!-- renderthis::to_pdf("session1.html") -->
+
+## 1 -- Our field comes from a strong Western art music tradition
+
+### Negatives
+
+- [A full range of possible processes? (where is movement?)]{style="color: red;"}
+- [Narrow cultural scope/ lacks diversity / is WEIRD]{style="color: red;"}
+- [Maintains certain power hierarchies]{style="color: red;"}
+
+### Positives
+
+- [Is valuable activity for a large subset of Western listeners]{style="color: green;"}
+- [Has helped music cognition to reach out to music theory]{style="color: green;"}
+
+## 2 -- ESM studies & MIR: frequently listened music
+
+### Positives
+
+- [Diversifies processes and topics (compared to the past)]{style="color: green;"}
+- [Close to the interests of the consumers, applications]{style="color: green;"}
+
+### Negatives
+
+- [Plays into the hands of consumption/economic growth]{style="color: red;"}
+- [Ignores power, equality, minority]{style="color: red;"}
+- [Does "most frequently listened music" cover interesting musical processes?]{style="color: red;"}
+
+## 3 -- Solutions?
+
+- Explicit articulation of what our music choices reflect
+- Value in both _frequent_ and _rare_ traditions
+- Richness argument: We should try to cover a range of processes
+- ?
